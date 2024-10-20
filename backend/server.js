@@ -17,7 +17,7 @@ app.use(
       'http://localhost:3000',
       'http://192.168.1.100:3000',
       'http://192.168.56.1:3000/',
-      'https://quiet-stroopwafel-8c3c14.netlify.app',
+      'https://thevirtualshop.netlify.app',
     ],
     credentials: true,
   }),
